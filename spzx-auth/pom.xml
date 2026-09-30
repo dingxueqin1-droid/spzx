@@ -63,7 +63,7 @@
                 <executions>
                     <execution>
                         <goals>
-                            <goal>repackage22</goal>
+                            <goal>repackage</goal>
                         </goals>
                     </execution>
                 </executions>
